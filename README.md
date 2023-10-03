@@ -53,7 +53,7 @@ About Us page 🙋‍♂️🙋‍♀️
 The application is powered by CommerceTools 🌐, a leading provider of commerce solutions for B2C and B2B enterprises. CommerceTools offers a cloud-native, microservices-based commerce platform that enables brands to create unique and engaging digital commerce experiences.
 
 <div align="center">
-    <img src="https://github.com/VoronovY/lucky-coders-e-commerce/assets/70838995/b6b2d558-a2ce-4b2e-8b22-fa29bb5bd4be" alt="screenshot">
+    <img src="https://github.com/Nastasyma/lucky-coders-e-commerce/assets/106106665/3f827454-86d3-4df7-85e5-a85c3a1716a8" alt="screenshot">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
